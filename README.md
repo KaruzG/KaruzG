@@ -4,7 +4,7 @@
 - 📚 Currently studying microcomputer systems and networks
 
 - 🧱 Current projects:
-  - [skatespotsvlc.cat](https://skatespotsvlc.cat).
+  - [skatespotsvlc.cat](https://www.skatespotsvlc.cat).
 
 
 <!---

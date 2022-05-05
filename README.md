@@ -5,6 +5,7 @@
 
 - 🧱 Current projects:
   - [skatespotsvlc.cat](https://www.skatespotsvlc.cat).
+  - [Clicker Game](https://github.com/KaruzG/JS-Clicker-Game).
 
 
 <!---

@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning web developing and programming
 - 📫 You can reach me by my mail: josemiguelcpcs@gmail.com
 - 📚 Studies: 
-  - Microcomputer Systems and Networks degree
+  - Microcomputer Systems and Networks
   - Currently studying Web Applications Development
 
 <!---

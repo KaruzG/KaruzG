@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaruzG from Spain
-- 🌱 I’m currently learning web developing and programming while working as sys admin
+- 🌱 I’m currently learning web app developing and programming while working as sys admin
 - 📫 You can reach me by my mail: josemiguelcpcs@gmail.com
 - 📚 Studies: 
   - Microcomputer Systems and Networks

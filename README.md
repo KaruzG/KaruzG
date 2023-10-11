@@ -4,7 +4,7 @@
 - 📚 Studies: 
   - Microcomputer Systems and Networks
   - Currently studying Web Applications Development
-- ⚙ HTML, CSS, JS, JAVA
+- ⚙ HTML, CSS, PHP, JS, JAVA
 
 <!---
 KaruzG/KaruzG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

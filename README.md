@@ -6,6 +6,7 @@
   - Currently studying Web Applications Development
 - ⚙ HTML, CSS, PHP, JS, JAVA
 
+_i hate Sumia_
 <!---
 KaruzG/KaruzG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

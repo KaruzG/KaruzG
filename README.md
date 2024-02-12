@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaruzG from Spain
+- 👋 Hi, I’m Miguel from Spain
 - 🌱 I’m currently learning full stack development!
 - 📫 You can reach me by my mail: josemiguelcpcs@gmail.com
 - 📚 Studies: 

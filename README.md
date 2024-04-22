@@ -7,7 +7,7 @@
 - ⚙ Tech:
     - HTML, CSS, SASS, Bootstrap
     - JavaScript, TypeScript, React
-    - PHP, JAVA
+    - Node.js, PHP, JAVA
     - SQL, MongoDB
     - Git, GitHub
-    - AWS, Azure, Node.js, Apache
+    - AWS, Azure

@@ -4,4 +4,10 @@
 - 📚 Studies: 
   - Microcomputer Systems and Networks
   - Currently studying Web Applications Development
-- ⚙ HTML, CSS, SASS, PHP, JS, SQL, BS, JAVA
+- ⚙ Tech:
+    - HTML, CSS, SASS, Bootstrap
+    - JavaScript, TypeScript, React
+    - PHP, JAVA
+    - SQL, MongoDB
+    - Git, GitHub
+    - AWS, Azure, Node.js, Apache

@@ -3,7 +3,7 @@
 - 📫 You can reach me by my mail: josemiguelcpcs@gmail.com
 - 📚 Studies: 
   - Microcomputer Systems and Networks
-  - Currently studying Web Applications Development
+  - Web Applications Development
 - ⚙ Tech:
     - HTML, CSS, SASS, Bootstrap
     - JavaScript, TypeScript, React

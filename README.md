@@ -4,7 +4,7 @@
   - Microcomputer Systems and Networks
   - Web Applications Development
 - ⚙ Tech:
-    - HTML, CSS, SASS, Bootstrap
+    - HTML, CSS, TailWindCSS, SASS, Bootstrap
     - JavaScript, TypeScript, React
     - Node.js, PHP, JAVA
     - SQL, MongoDB
